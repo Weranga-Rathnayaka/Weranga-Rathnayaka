@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Weranga Rathnayaka</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif](https://devpunch.com/img/Dev-At-Work-Gif.jpg">
+<img align="right" alt="Coding" width="400" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weranga-rathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="weranga-rathnayaka" /> </p>
